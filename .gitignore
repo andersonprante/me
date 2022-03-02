@@ -1,0 +1,10 @@
+/resources/_gen/
+/.hugo_build.lock
+node_modules
+.DS_Store
+logs
+*.log
+.cache
+.tmp
+.cache
+.sass-cache
